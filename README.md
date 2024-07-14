@@ -9,3 +9,5 @@ List of Practice Exercises
 4. Area of Triangle
 5. Reverse String
 6. Odd or Even Number
+7. Leap Year
+
