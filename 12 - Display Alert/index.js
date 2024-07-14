@@ -1,2 +1,6 @@
+// Displayed an alert when the button clicked
 
-// JavaScript Boilerplate
+const btn = document.getElementById("btn");
+btn.addEventListener("click", () => {
+	window.alert("Hello, user");
+});
