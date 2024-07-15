@@ -19,7 +19,13 @@ List of Practice Exercises
 14. Random Number Generator
 15. Array of Even Sum
 16. Double All Elements in Array
-17.
-18.
-19.
-20.
+17. Find Largest using Reduce()
+18. Remove all occurrences of a specific
+element from an array.
+19. Display the current date and time
+20. try-catch block to handle an error of API fetch
+21. recursive function find factorial 
+22. recursive function finds the nth Fibonacci number
+23. counter function using closures that increments
+24. Implement a private variable using closures 
+25. Add method to Product Prototype
