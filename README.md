@@ -1,7 +1,7 @@
 
 ## 50 JavaScript Projects by SachinAlam
 
-List of Practice Exercises
+::: List of Practice Exercises :::
 
 1. Print Hello World
 2. Print 1 to 5 using Loop
@@ -29,3 +29,14 @@ element from an array.
 23. counter function using closures that increments
 24. Implement a private variable using closures 
 25. Add method to Product Prototype
+26.
+27.
+28.
+
+44. 
+45. Takes an array of objects and return the total price
+46. Return "Boom!"
+47. 1s and 0s
+48. Vowels or consonants
+49. returns the number of days in the month
+50. Return the fraction in string format
