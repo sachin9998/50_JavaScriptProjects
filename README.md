@@ -1,4 +1,3 @@
-
 ## 50 JavaScript Projects by SachinAlam
 
 ::: List of Practice Exercises :::
@@ -21,19 +20,33 @@
 16. Double All Elements in Array
 17. Find Largest using Reduce()
 18. Remove all occurrences of a specific
-element from an array.
+    element from an array.
 19. Display the current date and time
 20. try-catch block to handle an error of API fetch
-21. recursive function find factorial 
+21. recursive function find factorial
 22. recursive function finds the nth Fibonacci number
 23. counter function using closures that increments
-24. Implement a private variable using closures 
+24. Implement a private variable using closures
 25. Add method to Product Prototype
-26.
-27.
-28.
-
-44. 
+26. makes multiple API calls using callbacks
+27. Rewrite using Promises
+28. Promises to load multiple images
+29. Rewrite using Async/Await
+30. Fetch data from an API and handle errors
+31. Image gallery dynamically
+32. form validation
+33. Bubbling and capturing
+34. Click event on a parent element (bubbling)
+35. countdown timer
+36. quote-changing
+37. Regular expression to validate an email
+38. Print a 2d array and reverse it
+39. Destructure an object
+40. class representing a Book add method too
+41. extends the `Book` class with the issue
+42. Prototypal Inheritance exercise
+43. Oddish or Evenish
+44. Reverse words with odd length
 45. Takes an array of objects and return the total price
 46. Return "Boom!"
 47. 1s and 0s
